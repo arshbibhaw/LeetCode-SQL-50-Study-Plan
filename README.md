@@ -1,6 +1,6 @@
 # 👨‍💻 LeetCode : SQL-50 Study Plan Solutions
 
-![Progress](https://img.shields.io/badge/Solved-30%2F50-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Solved-30%2F50-yellow?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-MySQL-blue?style=for-the-badge&logo=mysql)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
 
