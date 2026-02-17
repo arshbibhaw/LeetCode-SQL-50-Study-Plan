@@ -1,9 +1,8 @@
 # 👨‍💻 LeetCode : SQL-50 Study Plan Solutions
 
-![Progress](https://img.shields.io/badge/Solved-0%2F50-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Solved-30%2F50-red?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-MySQL-blue?style=for-the-badge&logo=mysql)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 > My solution set for the **[LeetCode SQL-50 Study Plan](https://leetcode.com/studyplan/top-sql-50/)** — progressing from core SELECT queries to complex Window Functions, Subqueries, and Regex patterns. The optimized codes are written to be readable and be useful beyond just passing test cases.
 
